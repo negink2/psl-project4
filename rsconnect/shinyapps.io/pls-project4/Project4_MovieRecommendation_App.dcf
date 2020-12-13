@@ -1,0 +1,12 @@
+name: Project4_MovieRecommendation_App
+title: Project4_MovieRecommendation_App
+username:
+account: pls-project4
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3359176
+bundleId: 3984016
+url: https://pls-project4.shinyapps.io/Project4_MovieRecommendation_App/
+when: 1607890406.86013
+asMultiple: FALSE
+asStatic: FALSE
