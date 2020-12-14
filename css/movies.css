@@ -1,0 +1,57 @@
+.ratings {
+   padding-left: 5px; 
+   height: 450px; 
+   overflow-y: scroll;
+}
+
+.border-box {
+   padding: 5px;
+}
+
+.btn-success {
+   color: white; 
+   font-size: 120%;
+}
+
+.step-desc{
+   padding-top: 10px;
+   font-size: 120%;
+   padding-bottom: 20px;
+   font-weight: bold;
+}
+
+.radio{
+   width: 400px;
+}
+
+.box-header{
+   background: #0E7105 !important;
+   background-color: #0E7105 !important;
+}
+
+.box.box-solid.box-info {
+    border: 1px solid #0E7105 !important;
+}
+
+.main-header .navbar {
+    background-color: #A3FE9B !important;
+}
+
+.logo{
+   background-color: #A3FE9B !important;
+   background: #A3FE9B !important;
+   color: black !important;
+}
+
+.logo:hover{
+   background-color: #A3FE9B !important;
+   background: #A3FE9B !important;
+}
+
+.div-authors{
+   padding-left: 10px;
+}
+
+.row-recommender2{
+   display: none;
+}
